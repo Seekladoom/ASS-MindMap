@@ -1,2 +1,2 @@
-# ASS-MindMap
-ASS MindMap
+# Seekladoom-MindMap
+Seekladoom MindMap
